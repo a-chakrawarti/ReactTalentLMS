@@ -1,0 +1,12 @@
+{  
+    "todos": [
+        {"id": 1, "value": "Do laundry", "isCompleted": false},
+        {"id": 2, "value": "Brush your teeth", "isCompleted": true},
+        {"id": 3, "value": "Ask for a leave", "isCompleted": false},
+        {"id": 4, "value": "Submit assignment", "isCompleted": false},
+        {"id": 5, "value": "Pickup mom", "isCompleted": false},
+        {"id": 6, "value": "Go to mall", "isCompleted": false},
+        {"id": 7, "value": "Clean up desk", "isCompleted": true},
+        {"id": 8, "value": "Wash dishes", "isCompleted": false}
+    ]
+}
