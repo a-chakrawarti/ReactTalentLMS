@@ -1,1 +1,26 @@
+@font-face {
+  font-family: "GoogleFont";
+  src: local("GoogleFont"),
+    url(./assets/fonts/GoogleFont.ttf) format("truetype");
+}
 
+:root {
+  --bannerColor: #646464;
+  --fontColor: #b1b1b1;
+}
+
+html > * {
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "GoogleFont";
+}
+
+header {
+  height: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--fontColor);
+  font-size: 20px;
+  background-size: cover;
+}
